@@ -7,4 +7,8 @@ Hello
 Guys
 
 
+<<<<<<< HEAD
 Mende duzeldirem
+=======
+Xeta yaradiram
+>>>>>>> c50c28215835d2b787faf0212f4c1f84258c5335
